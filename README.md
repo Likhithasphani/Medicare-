@@ -4,7 +4,7 @@ Our platform aims to provide accessible and affordable healthcare services to in
 This project makes it easier for users to connect with healthcare providers, book appointments, and access medical resources.
 
 🚀 Demo
-🔗 Live Demo
+[🔗 Live Demo](https://medicare-project-seven.vercel.app/)
 
 ✨ Features
 ✅ Admin Features
